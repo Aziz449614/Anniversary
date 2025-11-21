@@ -38,7 +38,7 @@ body {
 .name-right {
   position: absolute;
   top: 10px; /* distance from top of envelope */
-  font-family: "Alex Brush", cursive;
+  font-family: "Brush Script MT", cursive;
   font-size: 18px;
   color: #E6E6FA; /* change if needed */
 }
